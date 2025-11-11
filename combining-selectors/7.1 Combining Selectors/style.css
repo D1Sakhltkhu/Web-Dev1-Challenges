@@ -11,3 +11,9 @@ a[target="_self"] {
   display: inline-block;
   margin: 10px;
 }
+
+h1,h2{color: blueviolet;}
+
+.box>p {color: firebrick;}
+
+.list{background-color: blue;}
